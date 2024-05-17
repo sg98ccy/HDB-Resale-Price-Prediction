@@ -8,3 +8,10 @@ This project aims to predict the resale prices of HDB flats in Singapore using m
 - Random Forest Regressor
 
 The goal is to provide accurate predictions to assist buyers, sellers, and policymakers in making informed decisions.
+
+## Requirements
+- pandas
+- numpy
+- scikit-learn
+- tensorflow (for neural network)
+- matplotlib (for visualization)
