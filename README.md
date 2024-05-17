@@ -1,6 +1,6 @@
 # Project-3-HDB-Resale-Price-Prediction
 
-## Overview
+## **Overview**
 This project aims to predict the resale prices of HDB flats in Singapore using machine learning models. The models used in this project are:
 
 - Gradient Boosting Regressor
@@ -9,14 +9,14 @@ This project aims to predict the resale prices of HDB flats in Singapore using m
 
 The goal is to provide accurate predictions to assist buyers, sellers, and policymakers in making informed decisions.
 
-## Requirements
+## **Requirements**
 - pandas
 - numpy
 - scikit-learn
 - tensorflow (for neural network)
 - matplotlib (for visualization)
 
-## Data Preprocessing
+## **Data Preprocessing**
 ### Load the Dataset:
 Load the HDB resale transaction data into a pandas DataFrame.
 
